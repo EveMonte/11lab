@@ -56,6 +56,7 @@ namespace _11lab
             Train sixthTrain = new Train("Брест", 708, "12:22", 420);
             Train seventhTrain = new Train("Гродно", 705, "15:10", 400);
             Train eighthTrain = new Train("Гомель", 602, "14:25", 270);
+
             trains.Add(firstTrain);
             trains.Add(secondTrain);
             trains.Add(thirdTrain);
@@ -127,6 +128,7 @@ namespace _11lab
             {
                 t.Output();
             }
+
             string[] Destinations = { "Брест", "Витебск", "Жодино", "Минск", "Пацевичи", "Солигорск" };
             int[] key = {5, 7};
             var sometype = Destinations.Join(key, w => w.Length, q => q, (w, q) => new
