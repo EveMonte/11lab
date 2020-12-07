@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\ООП\11lab\11lab\bin\Debug\11lab.exe.config
+C:\Users\User\Desktop\ООП\11lab\11lab\bin\Debug\11lab.exe
+C:\Users\User\Desktop\ООП\11lab\11lab\bin\Debug\11lab.pdb
+C:\Users\User\Desktop\ООП\11lab\11lab\obj\Debug\11lab.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ООП\11lab\11lab\obj\Debug\11lab.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ООП\11lab\11lab\obj\Debug\11lab.exe
+C:\Users\User\Desktop\ООП\11lab\11lab\obj\Debug\11lab.pdb
